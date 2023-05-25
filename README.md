@@ -1,1 +1,1 @@
-# Bachelor-term-project
+# about the project work
